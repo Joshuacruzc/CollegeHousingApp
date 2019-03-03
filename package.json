@@ -7,15 +7,19 @@
     "test": "jest"
   },
   "dependencies": {
-    "apollo-boost": "^0.1.27",
+    "apollo-boost": "^0.1.28",
     "apollo-client": "latest",
     "apollo-client-preset": "^1.0.8",
+    "apollo-upload-client": "^10.0.0",
+    "axios": "^0.18.0",
     "graphql": "^14.1.1",
     "graphql-tag": "^2.10.1",
     "react": "16.6.3",
-    "react-apollo": "^2.4.1",
-    "react-dom": "^16.7.0",
-    "react-native": "0.58.3"
+    "react-apollo": "^2.5.1",
+    "react-dom": "^16.8.3",
+    "react-native": "^0.58.6",
+    "react-native-image-picker": "^0.28.0",
+    "react-navigation": "^3.3.2"
   },
   "devDependencies": {
     "babel-core": "7.0.0-bridge.0",
